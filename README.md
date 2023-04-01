@@ -4,7 +4,7 @@
 Server 97 rules of engagement (RoE) are as follows.
 
 **All pvp targets are allowed, unless they are:**
- - Any SURVEY ship that is under its protected cargo limit (aka "UPC"). Survey ships have an upside-down triangular icon that resembles a drill. 
+ - Any SURVEY ship that is under its protected cargo limit (aka "UPC"). Surveys have an upside-down triangular icon that resembles a drill. 
  - Any ships in a part of space that requires a token or similar commodity to enter (aka "token space").
  - Any ship participating in an active armada or a ship that is obviously being placed for an armada.
 
