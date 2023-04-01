@@ -1,4 +1,4 @@
-# S97 Rules of Engagement (RoE)
+# S97 Rules of Engagement (RoE) DRAFT
 
     Draft version 2023.04.02
 Server 97 rules of engagement (RoE) are as follows.
