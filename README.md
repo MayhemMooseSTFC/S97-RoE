@@ -18,7 +18,7 @@ Server 97 rules of engagement (RoE) are as follows.
 
 - War (open fighting between specific alliances outside of the RoE) may only be declared by victims of proven RoE-breakers. Wars must be announced in the official server discord and in server galaxy chat prior to being active.
 
-- Being attacked outside of the RoE does not immediately give you the right to seek revenge outside of RoE. Please follow the procedures for resolving RoE violations, and remember that new players may not know about RoE.
+- Being attacked outside of the RoE does not immediately give you the right to retaliate outside of RoE. Please follow the procedures for resolving RoE violations, and remember that new players may not know about RoE.
 
 # **RoE FAQ:**
 Please reference www.pvptarget.com/guide for further information about RoE, protected cargo, and other terms referenced above. 
