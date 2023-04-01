@@ -24,3 +24,4 @@ Please reference www.pvptarget.com/guide for further information about RoE, prot
 
 Any questions can be addressed in your alliance chat, the server's galaxy chat, or in the "roe-discussion" section of the official server discord (invite link: https://discord.gg/7CMeT83GS4).
 
+Being attacked outside of the RoE does not immediately give you the right to seek revenge outside of RoE. Please follow the procedures for resolving RoE violations, and remember that new players may not know about RoE.
