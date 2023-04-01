@@ -16,9 +16,9 @@ Server 97 rules of engagement (RoE) are as follows.
 **Procedures:**
 - Any RoE violations should be resolved first by individual discussion (1 on 1), then by alliance discussion (admiral/officer to admiral/officer). Screenshots may be requested of the victim if evidence is required.
 
-- War (open fighting between specific alliances outside of the RoE) may only be declared by victims of proven RoE-breakers, or if two alliances both consent to their war. Alliances are responsible for the RoE compliance of their members. Wars must be announced in the official server discord and in server galaxy chat prior to being active.
-
 - Being attacked outside of the RoE does not immediately give you the right to retaliate outside of RoE. Please follow the procedures for resolving RoE violations, and remember that new players may not know about RoE or understand it completely. 
+
+- War (open fighting between specific alliances outside of the RoE) may only be declared by victims of proven RoE-breakers, or if two alliances both consent to their war. Alliances are responsible for the RoE compliance of their members. Wars must be announced in the official server discord and in server galaxy chat prior to being active.
 
 # **RoE FAQ:**
 Please reference www.pvptarget.com/guide for further information about RoE, protected cargo, and other terms referenced above. There is also a handy glossary here for any terms you may not recognize. 
