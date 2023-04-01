@@ -4,14 +4,14 @@
 Server 97 rules of engagement (RoE) are as follows.
 
 **All pvp targets are allowed, unless they are:**
- - Any SURVEY ship that is under its protected cargo limit (aka "UPC").
- - Any ships in a part of space that requires a token or similar resource to enter (aka "token space").
- - Any ship participating in an active armada or is obviously being placed for an armada.
+ - Any SURVEY ship that is under its protected cargo limit (aka "UPC"). Survey ships have an upside-down triangular icon that resembles a drill. 
+ - Any ships in a part of space that requires a token or similar commodity to enter (aka "token space").
+ - Any ship participating in an active armada or a ship that is obviously being placed for an armada.
 
 **Exceptions:**
-- Any UPC survey ship that is not being used for mining or moving to/from a system for mining purposes is a valid target.
-- Any UPC survey ship that is on an empty mining node (aka "z-node") or is floating in space for at least 60 seconds without moving.
-- Any PvP event temporarily suspends RoE, but only for the fights that will generate event points (commonly limited to specific systems). 
+- Any UPC survey ship that is not being used for mining, or moving to/from a system for mining purposes, is a valid target.
+- Any UPC survey ship that has been on an empty mining node (aka "z-node") or has been floating in space for at least 60 seconds without moving.
+- Any PvP event temporarily suspends RoE, but only for the specific fights that will generate event points (commonly limited to specific systems). 
 
 **Procedures:**
 - Any RoE discrepancies should be resolved first by individual discussion (1 on 1), then by alliance discussion (admiral/officer to admiral/officer). Screenshots may be requested of the victim if evidence is required. 
