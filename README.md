@@ -11,4 +11,4 @@ Server 97 rules of engagement (RoE) are as follows.
 # **RoE FAQ:**
 Please reference www.pvptarget.com/guide for further information about RoE, protected cargo, and other terms referenced above. There is also a handy glossary here for any terms you may not recognize. 
 
-Any questions can be addressed in your alliance chat, the server's galaxy chat, or in the "roe-discussion" section of the official server discord (invite link: https://discord.gg/7CMeT83GS4).
+Any questions can be addressed in your alliance chat, the server's galaxy chat, or in the "roe-discussion" section of the official server 97 discord (invite link: https://discord.gg/7CMeT83GS4).
